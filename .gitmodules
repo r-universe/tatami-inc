@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "beachmat"]
+	path = beachmat
+	url = https://github.com/tatami-inc/beachmat
+	shallow = true
+	registered = true
